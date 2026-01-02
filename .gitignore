@@ -1,5 +1,5 @@
 # Java
-/target/
+user-service/target/
 *.log
 
 # Node / Next.js
