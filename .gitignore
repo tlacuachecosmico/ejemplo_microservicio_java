@@ -3,8 +3,8 @@ user-service/target/
 *.log
 
 # Node / Next.js
-node_modules/
-.next/
+frontend-nextjs/node_modules/
+frontend-nextjs/.next/
 
 # IDEs
 .idea/

@@ -5,5 +5,5 @@ export default function Home() {
       <h1>Frontend Next.js</h1>
       <p>Consumo de microservicios Java</p>
     </div>
-  )
+  );
 }
