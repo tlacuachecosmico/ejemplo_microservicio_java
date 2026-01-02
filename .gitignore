@@ -1,0 +1,12 @@
+# Java
+/target/
+*.log
+
+# Node / Next.js
+node_modules/
+.next/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
